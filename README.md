@@ -9,11 +9,13 @@
 2,3차 프로젝트 - [Git](https://github.com/prgrms-be-devcourse/NBE3-4-2-Team06/tree/main)
 * 예술가 펀딩 서비스로, REST API를 구현한 프로젝트 입니다.
 * 결제, 댓글, 리워드 서비스의 역할을 맡았습니다.
-* 이후 Kotiln 변환을 도입했습니다.
+
+3차 프로젝트 - [Git](https://github.com/prgrms-be-devcourse/NBE3-4-3-Team06)
+* 2차 프로젝트를 Kotiln으로 변환한 프로젝트 입니다.
 
 4차 프로젝트 - [Git](https://github.com/prgrms-web-devcourse-final-project/WEB3_4_NDGL_BE)
 * 미디어에 나온 유명 장소 정보 공유 플랫폼으로, 지금까지 배운 내용을 바탕으로 적용했습니다.
-* 맡은 부분은 좋아요, 포스트 임시저장, 포스트 S3 이미지 연동입니다.
+* 맡은 주요 부분은 좋아요, 포스트 임시저장, 포스트 S3 이미지 연동입니다.
 
 ---
 
