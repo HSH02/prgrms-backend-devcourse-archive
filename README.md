@@ -6,7 +6,7 @@
 * 커피 주문 서비스로, CRUD 기능을 구현한 프로젝트 입니다.
 * 장바구니 및 사용자 측 서비스의 역할을 맡았습니다.
 
-2,3차 프로젝트 - [Git](https://github.com/prgrms-be-devcourse/NBE3-4-2-Team06/tree/main)
+2차 프로젝트 - [Git](https://github.com/prgrms-be-devcourse/NBE3-4-2-Team06/tree/main)
 * 예술가 펀딩 서비스로, REST API를 구현한 프로젝트 입니다.
 * 결제, 댓글, 리워드 서비스의 역할을 맡았습니다.
 
